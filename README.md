@@ -11,8 +11,6 @@
     <p>I'm a Product Owner | Product Manager specializing in Automation using low code platforms. With an academic background in Econometrics, Finance and Statistics. I am passionate about all things Data (Data engineering/science/analytics including Machine Learning and AI). I enjoy horesriding and learning piano & violin in my free time 😃. </p>
 </p>
 </div>
-
-<br>
 <div align="center">
     <h3>📫 Look me up on:</h3>
     <a href="mailto:email@example.com">
@@ -25,6 +23,7 @@
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/> </a>    
 </div>
 
+<br>
 <div align="left">
     <p> - 🔭 I’m currently working on creating a personal App in low-code to help me keep track of my PM duties. <br>
 - 🌱 I’m currently learning how to engineer complex real-time data pipelines with Kafka, Spark & Zookeeper and moving it into AWS for storage, warehouse and analytics purpose  </p>
