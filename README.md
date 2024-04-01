@@ -8,7 +8,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Product Owner | Product Manager specializing in Automation using low code platforms. An academic background in Econometrics, Finance and Statistics. I am passionate about all things Data (Data engineering/science/analytics including Machine Learning and AI). I enjoy horesriding and learning piano & violin in my free time 😃. </p>
+    <p>I'm a Product Owner | Product Manager specializing in Automation using low code platforms. With an academic background in Econometrics, Finance and Statistics. I am passionate about all things Data (Data engineering/science/analytics including Machine Learning and AI). I enjoy horesriding and learning piano & violin in my free time 😃. </p>
 </p>
 </div>
 
@@ -16,6 +16,7 @@
 <div align="left">
     <p> - 🔭 I’m currently working on creating a personal App in low-code to help me keep track of my PM duties. <br>
 - 🌱 I’m currently learning how to engineer complex real-time data pipelines with Kafka, Spark & Zookeeper and moving it into AWS for storage, warehouse and analytics purpose  </p>
+</div>
 
 <div align="center">
     <h3>📫 Look me up on:</h3>
@@ -29,6 +30,7 @@
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/> </a>    
 </div>
 
+<div>
 <h3> 👨🏻‍🎓 Academic experience:</h3>
 <p> 📘 Master of Science: Econometrics, Big Data and Statistics at <a href="https://feg.univ-amu.fr/en/formation/masters/m2-econometrics-statistics-parcours-econometrie-data-science">Aix Marseille Univerity; Marseille France</a> <br>
 📚 Bachelors of Science (Honors): Double Majors in Economics and Finance at <a href="https://lahoreschoolofeconomics.edu.pk/getAcademicDegree/1">Lahore School of Economics; Lahore Pakistan</a> </p>
@@ -41,7 +43,7 @@
 <br>
 <div align="center">
     <!-- Replace with your tech skills -->
-    <p> ✒️ Product Management for Automation </p>
+    <p> ✒️ Product Management Stack for Automation </p>
     <img src="https://img.shields.io/badge/Appian-2322F0?style=for-the-badge&logo=Appian&logoColor=white"> 
     <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
     <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white"  />
@@ -94,9 +96,9 @@
 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
  </div>
-
+<!-----
 #### 🔥 Github Streaks</summary>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahumt&hide_border=true" />
-<!----- ![Snake animation](https://github.com/mahumt/mahumt/blob/output/github-contribution-grid-snake.svg) 
-"https://github.com/alexandresanlim/Badges4-README.md-Profile" >
+![Snake animation](https://github.com/mahumt/mahumt/blob/output/github-contribution-grid-snake.svg) 
+"https://github.com/alexandresanlim/Badges4-README.md-Profile" 
+>
