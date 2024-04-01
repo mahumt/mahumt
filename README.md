@@ -13,11 +13,6 @@
 </div>
 
 <br>
-<div align="left">
-    <p> - 🔭 I’m currently working on creating a personal App in low-code to help me keep track of my PM duties. <br>
-- 🌱 I’m currently learning how to engineer complex real-time data pipelines with Kafka, Spark & Zookeeper and moving it into AWS for storage, warehouse and analytics purpose  </p>
-</div>
-
 <div align="center">
     <h3>📫 Look me up on:</h3>
     <a href="mailto:email@example.com">
@@ -29,6 +24,12 @@
     <a href="https://public.tableau.com/profile/mahum.tofiq">
         <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/> </a>    
 </div>
+
+<div align="left">
+    <p> - 🔭 I’m currently working on creating a personal App in low-code to help me keep track of my PM duties. <br>
+- 🌱 I’m currently learning how to engineer complex real-time data pipelines with Kafka, Spark & Zookeeper and moving it into AWS for storage, warehouse and analytics purpose  </p>
+</div>
+
 
 <div>
 <h3> 👨🏻‍🎓 Academic experience:</h3>
