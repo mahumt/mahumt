@@ -8,7 +8,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Product Owner | Product Manager specializing in Automation using low code platforms. With an academic background in Econometrics, Finance and Statistics. I am passionate about all things Data (Data engineering/science/analytics including Machine Learning and AI). I enjoy horesriding and learning piano & violin in my free time 😃. </p>
+    <p>I'm a Product Manager specializing in Automation using low code platforms. With an academic background in Econometrics, Finance and Statistics. I am passionate about all things Data (Data engineering/science/analytics including Machine Learning and AI). I enjoy horesriding and learning piano & violin in my free time 😃. </p>
 </p>
 </div>
 <div align="center">
@@ -58,12 +58,11 @@
 <div align="center"> ☁️ Technologies <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src=""/>
+
 <br>
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
@@ -82,7 +81,6 @@
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
-<img src="" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
 
