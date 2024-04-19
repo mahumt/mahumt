@@ -1,3 +1,4 @@
+# Ensure that under Settings > Actions > General > Workflow permissions, the "Read and write permissions" is set!
 name: generate animation
 
 on:
