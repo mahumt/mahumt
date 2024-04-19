@@ -14,7 +14,7 @@
        - uses: mahumt/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: jasineri
+            user_name: mahumt
             # Text on contribution graph 
-            text: JASINERI
+            text: MAHUM
        - uses: mahumt/simple-push-action@v1
