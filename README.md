@@ -97,6 +97,8 @@
 <!-----
 #### 🔥 Github Streaks</summary>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahumt&hide_border=true" />
-![Snake animation](https://github.com/mahumt/mahumt/blob/output/github-contribution-grid-snake.svg) 
 "https://github.com/alexandresanlim/Badges4-README.md-Profile" 
 >
+
+
+![Snake animation](https://github.com/mahumt/mahumt/blob/output/github-contribution-grid-snake.gif)
